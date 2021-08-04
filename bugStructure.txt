@@ -1,0 +1,13 @@
+id
+title
+
+severity and priority
+
+description
+
+environment
+
+step to reproduse
+
+actual result
+expected result
