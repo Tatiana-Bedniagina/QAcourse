@@ -1,6 +1,0 @@
-1) add 1 line
-2)add 2 line
-
-Hello!
-
-Add line after branch creating.
